@@ -20,7 +20,7 @@ text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate",
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Leo's Website
+title   : Comeonlian's Website
 description: > # this means to ignore newlines until "Language & timezone"
   Collect and download some resources
 
@@ -35,7 +35,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : person # "person" (default), "organization"
-  name      : Leo
+  name      : Comeonlian
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : Amazing person.
